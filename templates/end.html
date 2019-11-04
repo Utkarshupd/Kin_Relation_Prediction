@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Prediction</title>
+</head>
+<body style="background-color:powderblue;">
+<div>
+{% for i in image_name %}
+
+<img src=" {{url_for('static', filename=i) }} " style="width:250px;height:300px;"  hspace="200">
+
+{% endfor %}
+
+</div>
+
+<h1 style="font-family:verdana;"> Probablity of two persons having kin relation is {{pred}} </h1>
+</body>
+</html>
