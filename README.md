@@ -1,16 +1,7 @@
 # Kin_Relation_Prediction
 
 
-/Kin-Prediction
-   ├── templates
-       └── index.html
-       └── end.html
-   ├── static
-       └── Image1
-       └── Image2
-   ├── venv/
-   ├── app.py
-   ├── facenet_vgg.h5   
+
    
 train.py file contains the model architecture and can be use to train and get the final model.
 
