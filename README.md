@@ -1,6 +1,6 @@
 # Kin_Relation_Prediction
 
-
+![SharedScreenshot](https://user-images.githubusercontent.com/25688703/68922380-74448c80-07a1-11ea-8873-7b2864e3227d.jpg)
 
    
 train.py file contains the model architecture and can be use to train and get the final model.
